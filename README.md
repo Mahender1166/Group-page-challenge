@@ -28,7 +28,7 @@
 
 - To use inline styles, add the style attribute to the relevant element. The style attribute can contain any CSS property.
 
-##Use of CSS
+## Use of CSS
 
 Before CSS, nearly all presentational attributes of HTML documents were contained within the HTML markup. All font colors, background styles, element alignments, borders and sizes had to be explicitly described, often repeatedly, within the HTML. CSS lets authors move much of that information to another file, the style sheet, resulting in considerably simpler HTML.
 
