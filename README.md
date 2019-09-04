@@ -50,7 +50,7 @@ Before CSS, document authors who wanted to assign such typographic characteristi
 - [Akhitha Tumula](https://github.com/thumula-akhitha)
 - [RehimaReddy Polam](https://github.com/Rethima-Reddy)
 - [Rohan Goud Bhandari](https://github.com/rohan6471)
-## Refernces:
+## References:
 -[W3 schools](https://www.w3schools.com/css/default.asp)
 
 
