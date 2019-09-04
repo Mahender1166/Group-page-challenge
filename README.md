@@ -49,7 +49,7 @@ Before CSS, document authors who wanted to assign such typographic characteristi
 - [MahenderReddy Surkanti](https://github.com/Mahender1166)
 - [Akhitha Tumula](https://github.com/thumula-akhitha)
 - [RehimaReddy Polam](https://github.com/Rethima-Reddy)
-- [Rohan Goud Bhandari(https://github.com/rohan6471)
+- [Rohan Goud Bhandari](https://github.com/rohan6471)
 
 
 
