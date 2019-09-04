@@ -47,5 +47,8 @@ Before CSS, document authors who wanted to assign such typographic characteristi
 
 ## Profile links of Group members:
 - [MahenderReddy Surkanti](https://github.com/Mahender1166)
+- [Akhitha Tumula](https://github.com/thumula-akhitha)
+
+
 
 
